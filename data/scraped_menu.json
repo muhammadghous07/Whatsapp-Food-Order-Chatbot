@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "price": 250.0,
+    "category": "Coffee",
+    "description": "Strong black coffee shot",
+    "is_available": true
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "price": 350.0,
+    "category": "Coffee",
+    "description": "Coffee with steamed milk foam",
+    "is_available": true
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "price": 400.0,
+    "category": "Coffee",
+    "description": "Smooth coffee with lots of milk",
+    "is_available": true
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "price": 300.0,
+    "category": "Coffee",
+    "description": "Diluted espresso, similar to filter coffee",
+    "is_available": true
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "price": 450.0,
+    "category": "Coffee",
+    "description": "Chocolate coffee delight",
+    "is_available": true
+  },
+  {
+    "id": 6,
+    "name": "Flat White",
+    "price": 420.0,
+    "category": "Coffee",
+    "description": "Creamy coffee with microfoam",
+    "is_available": true
+  },
+  {
+    "id": 7,
+    "name": "Doodh Patti Chai",
+    "price": 180.0,
+    "category": "Tea",
+    "description": "Traditional Pakistani milk tea",
+    "is_available": true
+  },
+  {
+    "id": 8,
+    "name": "Green Tea",
+    "price": 150.0,
+    "category": "Tea",
+    "description": "Healthy antioxidant green tea",
+    "is_available": true
+  },
+  {
+    "id": 9,
+    "name": "Masala Chai",
+    "price": 200.0,
+    "category": "Tea",
+    "description": "Spiced tea with herbs",
+    "is_available": true
+  },
+  {
+    "id": 10,
+    "name": "Kashmiri Chai",
+    "price": 350.0,
+    "category": "Tea",
+    "description": "Pink tea with nuts",
+    "is_available": true
+  },
+  {
+    "id": 11,
+    "name": "Fresh Orange Juice",
+    "price": 300.0,
+    "category": "Beverages",
+    "description": "Freshly squeezed orange juice",
+    "is_available": true
+  },
+  {
+    "id": 12,
+    "name": "Mango Shake",
+    "price": 350.0,
+    "category": "Beverages",
+    "description": "Creamy mango milkshake",
+    "is_available": true
+  },
+  {
+    "id": 13,
+    "name": "Chocolate Shake",
+    "price": 380.0,
+    "category": "Beverages",
+    "description": "Rich chocolate milkshake",
+    "is_available": true
+  },
+  {
+    "id": 14,
+    "name": "Lemonade",
+    "price": 200.0,
+    "category": "Beverages",
+    "description": "Fresh lemon juice with mint",
+    "is_available": true
+  },
+  {
+    "id": 15,
+    "name": "Mineral Water",
+    "price": 100.0,
+    "category": "Beverages",
+    "description": "Bottled mineral water",
+    "is_available": true
+  },
+  {
+    "id": 16,
+    "name": "Croissant",
+    "price": 200.0,
+    "category": "Pastries",
+    "description": "Flaky French butter pastry",
+    "is_available": true
+  },
+  {
+    "id": 17,
+    "name": "Chocolate Croissant",
+    "price": 250.0,
+    "category": "Pastries",
+    "description": "Croissant with chocolate filling",
+    "is_available": true
+  },
+  {
+    "id": 18,
+    "name": "Blueberry Muffin",
+    "price": 250.0,
+    "category": "Pastries",
+    "description": "Fresh blueberry muffin",
+    "is_available": true
+  },
+  {
+    "id": 19,
+    "name": "Chocolate Chip Cookie",
+    "price": 150.0,
+    "category": "Pastries",
+    "description": "Freshly baked chocolate chip cookie",
+    "is_available": true
+  },
+  {
+    "id": 20,
+    "name": "Brownie",
+    "price": 280.0,
+    "category": "Pastries",
+    "description": "Chocolate brownie with walnuts",
+    "is_available": true
+  },
+  {
+    "id": 21,
+    "name": "Samosa",
+    "price": 80.0,
+    "category": "Pakistani",
+    "description": "Crispy potato filled samosa",
+    "is_available": true
+  },
+  {
+    "id": 22,
+    "name": "Pakora",
+    "price": 200.0,
+    "category": "Pakistani",
+    "description": "Vegetable fritters with chutney",
+    "is_available": true
+  },
+  {
+    "id": 23,
+    "name": "Spring Roll",
+    "price": 250.0,
+    "category": "Pakistani",
+    "description": "Crispy vegetable spring rolls",
+    "is_available": true
+  },
+  {
+    "id": 24,
+    "name": "Chicken Roll",
+    "price": 350.0,
+    "category": "Pakistani",
+    "description": "Chicken wrap with vegetables",
+    "is_available": true
+  },
+  {
+    "id": 25,
+    "name": "Zinger Burger",
+    "price": 550.0,
+    "category": "Fast Food",
+    "description": "Crispy chicken burger with special sauce",
+    "is_available": true
+  },
+  {
+    "id": 26,
+    "name": "Chicken Burger",
+    "price": 450.0,
+    "category": "Fast Food",
+    "description": "Grilled chicken burger",
+    "is_available": true
+  },
+  {
+    "id": 27,
+    "name": "French Fries",
+    "price": 250.0,
+    "category": "Fast Food",
+    "description": "Crispy golden fries",
+    "is_available": true
+  },
+  {
+    "id": 28,
+    "name": "Chicken Nuggets",
+    "price": 350.0,
+    "category": "Fast Food",
+    "description": "Crispy chicken nuggets with dip",
+    "is_available": true
+  },
+  {
+    "id": 29,
+    "name": "Club Sandwich",
+    "price": 550.0,
+    "category": "Food",
+    "description": "Triple decker sandwich with chicken",
+    "is_available": true
+  },
+  {
+    "id": 30,
+    "name": "Grilled Cheese Sandwich",
+    "price": 400.0,
+    "category": "Food",
+    "description": "Melted cheese sandwich",
+    "is_available": true
+  },
+  {
+    "id": 31,
+    "name": "Chicken Sandwich",
+    "price": 450.0,
+    "category": "Food",
+    "description": "Grilled chicken sandwich with veggies",
+    "is_available": true
+  },
+  {
+    "id": 32,
+    "name": "Chocolate Cake Slice",
+    "price": 350.0,
+    "category": "Desserts",
+    "description": "Rich chocolate cake slice",
+    "is_available": true
+  },
+  {
+    "id": 33,
+    "name": "Cheesecake",
+    "price": 450.0,
+    "category": "Desserts",
+    "description": "Creamy New York cheesecake",
+    "is_available": true
+  },
+  {
+    "id": 34,
+    "name": "Gulab Jamun",
+    "price": 200.0,
+    "category": "Desserts",
+    "description": "Sweet milk balls in syrup",
+    "is_available": true
+  },
+  {
+    "id": 35,
+    "name": "Falooda",
+    "price": 400.0,
+    "category": "Desserts",
+    "description": "Traditional Pakistani dessert drink",
+    "is_available": true
+  },
+  {
+    "id": 36,
+    "name": "Chicken Biryani",
+    "price": 450.0,
+    "category": "Pakistani",
+    "description": "Traditional Pakistani biryani",
+    "is_available": true
+  },
+  {
+    "id": 37,
+    "name": "Chicken Karahi",
+    "price": 650.0,
+    "category": "Pakistani",
+    "description": "Spicy chicken curry",
+    "is_available": true
+  },
+  {
+    "id": 38,
+    "name": "Chicken Tikka",
+    "price": 600.0,
+    "category": "Pakistani",
+    "description": "Grilled chicken pieces",
+    "is_available": true
+  },
+  {
+    "id": 39,
+    "name": "Beef Seekh Kabab",
+    "price": 500.0,
+    "category": "Pakistani",
+    "description": "Minced beef kababs",
+    "is_available": true
+  },
+  {
+    "id": 40,
+    "name": "Caesar Salad",
+    "price": 500.0,
+    "category": "Food",
+    "description": "Fresh Caesar salad with dressing",
+    "is_available": true
+  },
+  {
+    "id": 41,
+    "name": "Greek Salad",
+    "price": 450.0,
+    "category": "Food",
+    "description": "Fresh vegetable salad with feta",
+    "is_available": true
+  },
+  {
+    "id": 42,
+    "name": "Fruit Salad",
+    "price": 350.0,
+    "category": "Food",
+    "description": "Seasonal fruit mix",
+    "is_available": true
+  }
+]
