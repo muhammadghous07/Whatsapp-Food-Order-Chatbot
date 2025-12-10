@@ -1,9 +1,13 @@
 🍕 FoodExpress WhatsApp Order Chatbot
+
 AI-Powered Food Ordering System via WhatsApp with Voice Recognition & Location-Based Routing
 
 https://img.shields.io/badge/Python-3.12.10-blue.svg
+
 https://img.shields.io/badge/FastAPI-0.104.1-green.svg
+
 https://img.shields.io/badge/WhatsApp-GREEN--API-success.svg
+
 https://img.shields.io/badge/License-MIT-yellow.svg
 
 🎯 What is FoodExpress?
@@ -388,4 +392,5 @@ WhatsApp: +92 300 1234567
 Issues: GitHub Issues
 
 Documentation: API Docs
+
 
