@@ -387,10 +387,11 @@ For support, feature requests, or questions:
 
 Email: support@foodexpress.com
 
-WhatsApp: +92 300 1234567
+WhatsApp: Whatsapp Number
 
 Issues: GitHub Issues
 
 Documentation: API Docs
+
 
 
